@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TestSignaturePad"
+             x:Class="TestSignaturePad.MainPage">
+
+    <StackLayout>
+        <Label Text="Testing Signature View" 
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />
+        
+        <Label Text="{Binding Visits}" Margin="10" />
+
+        <Button Text="Open Signature View" Command="{Binding GotoSignature}" />
+    </StackLayout>
+	
+
+</ContentPage>
