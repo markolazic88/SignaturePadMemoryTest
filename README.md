@@ -1,2 +1,2 @@
 # SignaturePadMemoryTest
-Example for Xamarin Forms SignaturePad Memory leak
+Example for Xamarin Forms SignaturePad memory leak prevention.

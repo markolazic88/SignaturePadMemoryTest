@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSignaturePad.Android", "TestSignaturePad\TestSignaturePad.Android\TestSignaturePad.Android.csproj", "{766C8521-567B-4B43-AA69-8C5BD61FC1D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSignaturePad.Android", "TestSignaturePad.Android\TestSignaturePad.Android.csproj", "{766C8521-567B-4B43-AA69-8C5BD61FC1D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSignaturePad", "TestSignaturePad\TestSignaturePad\TestSignaturePad.csproj", "{78DC5A8D-32C0-458D-B52D-0E62910AA77A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSignaturePad", "TestSignaturePad\TestSignaturePad.csproj", "{78DC5A8D-32C0-458D-B52D-0E62910AA77A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
