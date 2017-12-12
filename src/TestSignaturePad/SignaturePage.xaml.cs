@@ -24,7 +24,7 @@ namespace TestSignaturePad
             }
             await Navigation.PopAsync();
 
-            //GC.Collect(0); // *** Uncomment to prevent memory leak ***
+            //GC.Collect(); // *** Uncomment to prevent memory leak ***
         }
 
         private async void Button_CancelClicked(object sender, EventArgs e)
